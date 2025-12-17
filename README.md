@@ -22,8 +22,8 @@
 
 | Skill | 功能描述 | 协作模型 |
 |-------|----------|----------|
-| [collaborating-with-codex](./collaborating-with-codex) | 将编码任务委托给 Codex CLI，用于原型开发、调试和代码审查 | OpenAI Codex |
-| [collaborating-with-gemini](./collaborating-with-gemini) | 将编码任务委托给 Gemini CLI，用于原型开发、调试和代码审查 | Google Gemini |
+| [collaborating-with-codex](https://github.com/GuDaStudio/collaborating-with-codex) | 将编码任务委托给 Codex CLI，用于原型开发、调试和代码审查 | OpenAI Codex |
+| [collaborating-with-gemini](https://github.com/GuDaStudio/collaborating-with-gemini) | 将编码任务委托给 Gemini CLI，用于原型开发、调试和代码审查 | Google Gemini |
 
 ---
 
